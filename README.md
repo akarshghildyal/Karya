@@ -1,4 +1,5 @@
 # Karya
+A Spring Boot project to manage users, vendors, and vehicles.
 
 ## About
 
