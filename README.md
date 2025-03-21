@@ -1,5 +1,17 @@
 # Karya
 
+## About
+
+Karya implements the following:
+
+- Registering a New User
+- User Login
+- Vehicle Registration and Management
+- Assigning Sub Vendors
+- User Management
+
+-----
+
 ### API Endpoints
 
 | Endpoint                                 | Method | Usage                                      |
