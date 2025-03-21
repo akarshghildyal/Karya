@@ -1,6 +1,9 @@
 # Karya
 A Spring Boot project to manage users, vendors, and vehicles.
 
+[![Demo Video](https://github.com/user-attachments/assets/9b88a120-72c6-4079-8060-fc449800ec6b)]([https://www.youtube.com/watch?v=wV-E4ZyQujM](https://youtu.be/5lG09kaNb30))
+
+
 ## About
 
 Karya implements the following:
@@ -82,3 +85,11 @@ karya/
 │                   └── karya/
 │                       └── KaryaApplicationTests.java
 ```
+
+
+
+
+
+### Key takeaways
+Learnt a lot by implementing it, deadline felt very tight, spent 2.5 hours fixing the first issue. Thank you for the opportunity, and thank you for reading! 
+Have a nice day.
